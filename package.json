@@ -1,6 +1,7 @@
 {
   "name": "crud",
   "version": "0.1.0",
+  "homepage": "https://Harmonyss.github.io/crud",
   "private": true,
   "dependencies": {
     "@chakra-ui/icons": "^2.0.11",
